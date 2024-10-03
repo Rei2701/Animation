@@ -6,12 +6,12 @@
 }
 .name{
     position: absolute;
-    left: calc(45%);
-    top: calc(40%);
+    left: calc(35%);
+    top: calc(30%);
     font-size: 40px;
     font-weight: 700;
     text-align: center;
-    background:linear-gradient(to right,rgb(209, 17, 17),white);
+    background:linear-gradient(to right,rgb(209, 17, 17),black);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     padding: 0 30px;
@@ -49,11 +49,11 @@
     border-radius: 10px;
 }
 .slider-text1{
-    background-color: aquamarine;
+    background-color: mediumaquamarine;
     animation: slider 8s linear infinite;
 }
 .slider-text2{
-    background-color: beige;
+    background-color: or;
 }
 .slider-text3{
     background-color: blueviolet;
